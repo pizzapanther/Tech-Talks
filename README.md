@@ -11,3 +11,4 @@ A list of past talks given by me, [@pizzapanther](https://twitter.com/pizzapanth
 |Getting Paid with Python|PyWeb Houston|04-05-2015||[Google Drive](https://drive.google.com/open?id=105g80on4p2_yETqZWRDie4G93Ge5rXWQHIhUAPoMkd0)|
 |Intro to AngularJS for the Python Web Developer|PyTexas|10-04-2014||[Google Drive](https://drive.google.com/open?id=1tQVFq7hsHS8Y-jWO8R9sBojIq2T6z_zH4bmjQK87X7Y)|
 |Web Sockets and Python|PyWeb Houston|11-02-2013||[Google Drive](https://drive.google.com/open?id=19mB4RKbkCOLyrw97qG-4CoH7SONA6fVT8pfcacvbYEk)|
+|Python Applications with the Google Drive SDK|PyTexas|08-18-2013|[Youtube](https://www.youtube.com/watch?v=YsWslJVoUfM)|[Google Drive](https://drive.google.com/open?id=1bbjKd78KACWNtnrGVNRU9qFSJwBXbf1EYokqueesw5U)|
