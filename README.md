@@ -2,7 +2,6 @@
 
 A list of past talks given by me, [@pizzapanther](https://twitter.com/pizzapanther)
 
-
 |Talk|Location|Date|Video|Slides|
 |---|---|---|---|---|
 |A Guide To Bad Programming|San Francisco|August 2016|[Youtube](https://www.youtube.com/watch?v=2tpNWcaaOqk)|[Google Drive](https://docs.google.com/presentation/d/17Ky8JhMXM_l_w2bJ3pAwzLZmQUCWAbvS-wlf6qSAs9w/edit?usp=sharing)|
