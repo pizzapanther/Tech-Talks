@@ -4,6 +4,7 @@ A list of past talks given by me, [@pizzapanther](https://twitter.com/pizzapanth
 
 |Talk|Location|Date|Video|Slides|
 |---|---|---|---|---|
+|A Guide To Bad Programming|San Francisco|August 2016|[Youtube](https://www.youtube.com/watch?v=2tpNWcaaOqk)|[Google Drive](https://docs.google.com/presentation/d/17Ky8JhMXM_l_w2bJ3pAwzLZmQUCWAbvS-wlf6qSAs9w/edit?usp=sharing)|
 |Progressive Web Apps|Hill Country JS|03-16-2016|[Youtube](https://youtu.be/7gkXoMjFpl8?t=47m7s)|[Google Drive](https://drive.google.com/open?id=14m6H_dWDzd7A-bPtYGZbHvPZf0o21XLQw4U0NYBEyIY)|
 |End The Holy Wars of Formatting|PyTexas|09-26-2015|[Youtube](https://www.youtube.com/watch?v=rDyAIoHDNkU)|[Google Drive](https://drive.google.com/open?id=1sKy1_EZ1P19t6BWpir_6MxvzgGNVvQoKfTkGmreMXdo)|
 |Intro to Python|PyTexas|09-25-2015||[Google Drive](https://drive.google.com/open?id=1AJTUqF9ybPDDiQlVYh_opJw3pYfcJktn58ezK9c46KM)|
